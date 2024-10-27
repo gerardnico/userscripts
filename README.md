@@ -4,4 +4,4 @@
 
 
 ## List
-* [Delete Kindle Highlight in Bulk](scripts/kindle-delete-highlight.user.js)
+* [Kindle - Delete all Notes and Highlight](scripts/kindle-delete-highlight.user.js)
